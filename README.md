@@ -25,6 +25,7 @@ Hepsi ücretsiz ve açık kaynak.
 | **[zConverter](https://github.com/heFRKN/zConverter)** | YouTube, Spotify, Instagram, TikTok ve fazlasından video/müzik/profil görseli indir; kırp, dönüştür. <br><sub>Python</sub> |
 | **[zLyrics](https://github.com/heFRKN/zLyrics-spotify)** | Spotify için şarkıyla birlikte akan söz ekranı ve cam görünümlü tema. <br><sub>JavaScript · Spicetify</sub> |
 | **[Kalori Planlayıcı](https://github.com/heFRKN/kalori_planlayici)** | Kalori, makro, su ve antrenman takibi yapan mobil uygulama. <br><sub>Flutter · Dart</sub> |
+| **[Dailytor](https://github.com/heFRKN/dailytor)** | Alışkanlık, kalori ve antrenman takibi yapan web uygulaması. Yemeğin fotoğrafını çek, besin değerlerini yapay zeka tahmin etsin. <br><sub>PHP · MySQL · PWA</sub> |
 
 ### Kullandıklarım
 
@@ -35,6 +36,7 @@ Hepsi ücretsiz ve açık kaynak.
 ![JavaScript](https://img.shields.io/badge/JavaScript-222?style=flat-square&logo=javascript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-222?style=flat-square&logo=flutter&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-222?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-222?style=flat-square&logo=mysql&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-222?style=flat-square&logo=windows&logoColor=white)
 
 ### Destek
